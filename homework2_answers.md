@@ -12,4 +12,10 @@
 // 2. git checkout [branch-name]
 // 3. So you can work on specific code without directly affecting the master page.
 
+// .1 git merge combines a specified branch’s history into the current branch, while pull needs to be approved before a merge.
+// .2 git pull
+
 // .1
+
+
+
