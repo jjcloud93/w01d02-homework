@@ -5,6 +5,8 @@ h1 {
 	font-size: 45px;
 	margin: 0px 0px 50px 0px;
 	 font-family: "Arial";
+	 text-transform: uppercase;
+	 border-radius: 50%;
 }
 p {
 	margin: 50px 0px 0px 0px;
